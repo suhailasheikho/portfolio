@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#07121e"/><stop offset="1" stop-color="#173b5c"/></linearGradient></defs>
+<rect width="400" height="220" fill="url(#g)"/><circle cx="200" cy="102" r="62" fill="#0b2239" stroke="#2786ff" stroke-width="3"/>
+<text x="200" y="120" text-anchor="middle" fill="#65b4ff" font-family="Arial" font-size="54">12:45</text>
+<text x="28" y="197" fill="#fff" font-family="Arial" font-size="15" font-weight="700">Digital Clock</text></svg>
